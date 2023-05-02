@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DesktopApp.iml" filepath="$PROJECT_DIR$/.idea/DesktopApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InputForm/InputForm.iml" filepath="$PROJECT_DIR$/InputForm/InputForm.iml" />
+    </modules>
+  </component>
+</project>
